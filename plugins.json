@@ -47,21 +47,5 @@
     "repo": "RachelForster/shinsekai-bilibili-live",
     "description": "把B站直播间弹幕接入Shinsekai，让人物和弹幕互动",
     "entry": "bilibili_live.plugin:BilibiliLivePlugin"
-  },
-  {
-    "name": "shinsekai_plugin_ci_smoke",
-    "display_name": "Shinsekai CI Smoke",
-    "author": "Shinsekai Contributors",
-    "repo": "End0rph1nww/shinsekai-plugin-ci-smoke",
-    "description": "Small test plugin for Registry Issue, R2 package, logo and update detection flows.",
-    "desc": "Small test plugin for Registry Issue, R2 package, logo and update detection flows.",
-    "entry": "plugins.shinsekai_plugin_ci_smoke.plugin:ShinsekaiCiSmokePlugin",
-    "tags": [
-      "ci",
-      "smoke",
-      "test"
-    ],
-    "social_link": "https://github.com/End0rph1nww",
-    "lowest_shinsekai_version": ">=0.2.0"
   }
 ]
