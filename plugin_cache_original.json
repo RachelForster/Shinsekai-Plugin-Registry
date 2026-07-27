@@ -480,7 +480,7 @@
   },
   "shinsekai_chat_phone": {
     "name": "shinsekai_chat_phone",
-    "display_name": "chat_phone",
+    "display_name": "Doki Chat",
     "author": "pipi_",
     "repo": "Mizushima-Mihane/Shinsekai-chat-phone",
     "description": "给用户提供小手机服务，可以跟不在同一场景的char发短信、打电话、听音乐。还可以让char主动发短信打电话哦！~可在配置页面配置角色头像、手机主题色。",
