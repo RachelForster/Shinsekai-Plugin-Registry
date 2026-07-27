@@ -492,18 +492,18 @@
       "status": "ci_passed"
     },
     "social_link": "https://space.bilibili.com/18163005?spm_id_from=333.1007.0.0",
-    "version": "1.0.0",
-    "commit_sha": "e6ba175e0f6d089f3241a49d84540df9dfcd4d00",
-    "updated_at": "2026-07-27T06:17:42Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/1.0.0/shinsekai_chat_phone-1.0.0-e6ba175e0f6d.zip",
-    "sha256": "2b2951dca8cfaea3bc9b97452f57c7f30059a3422e3562d55ad42fc77597067f",
-    "size": 3890464,
+    "version": "2.0.0",
+    "commit_sha": "7adce653415fb48482e06dabae268c50e45e4b29",
+    "updated_at": "2026-07-27T06:40:42Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip",
+    "sha256": "06c253bdd1ea33bae3c05e52ef9651e4be7d6261cd83b7c16c56269cd9fc1f56",
+    "size": 3890780,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/1.0.0/shinsekai_chat_phone-1.0.0-e6ba175e0f6d.zip",
-      "sha256": "2b2951dca8cfaea3bc9b97452f57c7f30059a3422e3562d55ad42fc77597067f",
-      "size": 3890464,
-      "r2_key": "plugins/Mizushima-Mihane/shinsekai_chat_phone/1.0.0/shinsekai_chat_phone-1.0.0-e6ba175e0f6d.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip",
+      "sha256": "06c253bdd1ea33bae3c05e52ef9651e4be7d6261cd83b7c16c56269cd9fc1f56",
+      "size": 3890780,
+      "r2_key": "plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip"
     },
     "sec_scan": {
       "static": {
@@ -512,12 +512,12 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Mizushima-Mihane/shinsekai_chat_phone/1.0.0/logo-e6ba175e0f6d.png",
+    "logo": "https://r2.shinsekai.studio/assets/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/logo-7adce653415f.png",
     "plugin_id": "com.shinsekai.chat_phone",
     "stars": 0,
     "stargazers_count": 0,
     "forks": 2,
     "forks_count": 2,
-    "repo_updated_at": "2026-07-27T06:00:25Z"
+    "repo_updated_at": "2026-07-27T06:30:25Z"
   }
 }
