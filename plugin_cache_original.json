@@ -494,14 +494,14 @@
     "social_link": "https://space.bilibili.com/18163005?spm_id_from=333.1007.0.0",
     "version": "2.0.0",
     "commit_sha": "7adce653415fb48482e06dabae268c50e45e4b29",
-    "updated_at": "2026-07-27T06:40:42Z",
+    "updated_at": "2026-07-27T06:46:08Z",
     "download_url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip",
-    "sha256": "06c253bdd1ea33bae3c05e52ef9651e4be7d6261cd83b7c16c56269cd9fc1f56",
+    "sha256": "d90e55b54446f2a5f06b02d42f8d4f81c08f734e374545b3cd08ed55a03b924a",
     "size": 3890780,
     "package": {
       "source": "r2",
       "url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip",
-      "sha256": "06c253bdd1ea33bae3c05e52ef9651e4be7d6261cd83b7c16c56269cd9fc1f56",
+      "sha256": "d90e55b54446f2a5f06b02d42f8d4f81c08f734e374545b3cd08ed55a03b924a",
       "size": 3890780,
       "r2_key": "plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-7adce653415f.zip"
     },
