@@ -157,5 +157,25 @@
       "status": "ci_passed"
     },
     "social_link": "https://space.bilibili.com/18163005?spm_id_from=333.1007.0.0"
+  },
+  {
+    "name": "llbot_bridge",
+    "display_name": "LLBot Bridge",
+    "author": "巳雨",
+    "repo": "siyu6/llbot-bridge",
+    "description": "通过 OneBot11 反向 WebSocket 连接 LLBot，实现 QQ 群聊与私聊与 Shinsekai 角色对话的桥接，支持文字/语音回复、表情包发送、可视化管理面板。",
+    "desc": "通过 OneBot11 反向 WebSocket 连接 LLBot，实现 QQ 群聊与私聊与 Shinsekai 角色对话的桥接，支持文字/语音回复、表情包发送、可视化管理面板。",
+    "entry": "plugins.llbot_bridge.plugin:LLBotBridgePlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "shinsekai",
+      "plugin",
+      "qq"
+    ],
+    "lowest_shinsekai_version": "v2.3.1"
   }
 ]
