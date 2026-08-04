@@ -540,6 +540,27 @@
       "qq"
     ],
     "lowest_shinsekai_version": "v2.3.1",
+    "version": "1.0.0",
+    "commit_sha": "df5e500babb0fc91fbdb1474a4d4ba39e28caf5d",
+    "updated_at": "2026-08-04T10:50:03Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-df5e500babb0.zip",
+    "sha256": "0ba7c186a64800848856ae4d5fc4ceb39e7da9f0344131b8f97f96ad95ef8d93",
+    "size": 26709,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-df5e500babb0.zip",
+      "sha256": "0ba7c186a64800848856ae4d5fc4ceb39e7da9f0344131b8f97f96ad95ef8d93",
+      "size": 26709,
+      "r2_key": "plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-df5e500babb0.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "plugin_id": "com.shinsekai.llbot_bridge",
     "stars": 0,
     "stargazers_count": 0,
     "forks": 0,
