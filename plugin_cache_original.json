@@ -390,11 +390,11 @@
   },
   "shinsekai_heartbeat": {
     "name": "shinsekai_heartbeat",
-    "display_name": "Heartbeat Companion",
+    "display_name": "心跳陪伴 Heartbeat Companion",
     "author": "Hard-to-tell",
     "repo": "Hard-to-tell/shinsekai-heartbeat",
-    "description": "Let the current Shinsekai character speak after the user has been idle, with optional Moondream screen context.",
-    "desc": "Let the current Shinsekai character speak after the user has been idle, with optional Moondream screen context.",
+    "description": "让角色在你一段时间没有操作后自然地主动开口，可结合最近对话、当前时间与可选的 Moondream 识屏信息，支持自言自语、主动提问和随机空闲间隔。",
+    "desc": "让角色在你一段时间没有操作后自然地主动开口，可结合最近对话、当前时间与可选的 Moondream 识屏信息，支持自言自语、主动提问和随机空闲间隔。",
     "entry": "plugins.shinsekai_heartbeat.plugin:HeartbeatCompanionPlugin",
     "trust_level": "community",
     "verified": false,
@@ -402,23 +402,23 @@
       "status": "ci_passed"
     },
     "tags": [
-      "heartbeat",
-      "companion",
-      "automation",
-      "vision"
+      "心跳陪伴",
+      "主动对话",
+      "自动化",
+      "识屏"
     ],
     "social_link": "https://github.com/Hard-to-tell",
     "lowest_shinsekai_version": ">=2.1.0",
     "version": "v0.3.3",
     "commit_sha": "1488191dea040f5370c927b87aea37ce5b0aa9ba",
-    "updated_at": "2026-07-28T08:18:34Z",
+    "updated_at": "2026-08-04T10:46:57Z",
     "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.3.3/shinsekai_heartbeat-0.3.3-1488191dea04.zip",
-    "sha256": "9877a81a2574a1abf365dd303716a86141ff500f188cbd953487ffb818d44275",
+    "sha256": "f8e3188fd551f0478bbd88cf7f6f1040fdcfa8d9706be2c27623b2c71fb25fe8",
     "size": 976477,
     "package": {
       "source": "r2",
       "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.3.3/shinsekai_heartbeat-0.3.3-1488191dea04.zip",
-      "sha256": "9877a81a2574a1abf365dd303716a86141ff500f188cbd953487ffb818d44275",
+      "sha256": "f8e3188fd551f0478bbd88cf7f6f1040fdcfa8d9706be2c27623b2c71fb25fe8",
       "size": 976477,
       "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.3.3/shinsekai_heartbeat-0.3.3-1488191dea04.zip"
     },
@@ -520,5 +520,30 @@
     "forks": 2,
     "forks_count": 2,
     "repo_updated_at": "2026-08-01T08:44:32Z"
+  },
+  "llbot_bridge": {
+    "name": "llbot_bridge",
+    "display_name": "LLBot Bridge",
+    "author": "巳雨",
+    "repo": "siyu6/llbot-bridge",
+    "description": "通过 OneBot11 反向 WebSocket 连接 LLBot，实现 QQ 群聊与私聊与 Shinsekai 角色对话的桥接，支持文字/语音回复、表情包发送、可视化管理面板。",
+    "desc": "通过 OneBot11 反向 WebSocket 连接 LLBot，实现 QQ 群聊与私聊与 Shinsekai 角色对话的桥接，支持文字/语音回复、表情包发送、可视化管理面板。",
+    "entry": "plugins.llbot_bridge.plugin:LLBotBridgePlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "shinsekai",
+      "plugin",
+      "qq"
+    ],
+    "lowest_shinsekai_version": "v2.3.1",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-08-04T09:58:06Z"
   }
 }
