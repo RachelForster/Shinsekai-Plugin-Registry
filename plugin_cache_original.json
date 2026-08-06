@@ -541,17 +541,17 @@
     ],
     "lowest_shinsekai_version": "v2.3.1",
     "version": "1.0.0",
-    "commit_sha": "a189885c43ef2fbbc9b4f8721b0e7d078e3d7e53",
-    "updated_at": "2026-08-06T06:46:24Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-a189885c43ef.zip",
-    "sha256": "6ddec69880099c6a8aa38297eebf0351e1e7a4e722569dfe19c1e9bb73792c7f",
-    "size": 27181,
+    "commit_sha": "3585c99d658e03efe62affbc3525171a82296ae3",
+    "updated_at": "2026-08-06T14:35:31Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-3585c99d658e.zip",
+    "sha256": "ddddc920ef52e38b4d9102e026fcefc486ee166cb89949975f9bfd4e925d631d",
+    "size": 26869,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-a189885c43ef.zip",
-      "sha256": "6ddec69880099c6a8aa38297eebf0351e1e7a4e722569dfe19c1e9bb73792c7f",
-      "size": 27181,
-      "r2_key": "plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-a189885c43ef.zip"
+      "url": "https://r2.shinsekai.studio/plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-3585c99d658e.zip",
+      "sha256": "ddddc920ef52e38b4d9102e026fcefc486ee166cb89949975f9bfd4e925d631d",
+      "size": 26869,
+      "r2_key": "plugins/siyu6/llbot_bridge/1.0.0/llbot_bridge-1.0.0-3585c99d658e.zip"
     },
     "sec_scan": {
       "static": {
@@ -565,6 +565,6 @@
     "stargazers_count": 1,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-08-06T05:32:33Z"
+    "repo_updated_at": "2026-08-06T11:33:38Z"
   }
 }
