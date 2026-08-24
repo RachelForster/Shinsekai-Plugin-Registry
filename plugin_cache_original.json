@@ -409,18 +409,18 @@
     ],
     "social_link": "https://github.com/Hard-to-tell",
     "lowest_shinsekai_version": ">=2.1.0",
-    "version": "v0.4.1",
-    "commit_sha": "85cffaf92588c105aa609876888676550e273063",
-    "updated_at": "2026-08-23T14:18:00Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.1/shinsekai_heartbeat-0.4.1-85cffaf92588.zip",
-    "sha256": "e4b4775800eb346ae9962dd6aa923e91b0bce1cc845284d19a977b4e800e5912",
-    "size": 985510,
+    "version": "v0.4.2",
+    "commit_sha": "102d680e5152e4a37125158f8f7986bf63949172",
+    "updated_at": "2026-08-24T08:18:02Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip",
+    "sha256": "c8aed1414e26367de42175fe2bf65f83062d6d7230118350e083bcdd13046758",
+    "size": 987388,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.1/shinsekai_heartbeat-0.4.1-85cffaf92588.zip",
-      "sha256": "e4b4775800eb346ae9962dd6aa923e91b0bce1cc845284d19a977b4e800e5912",
-      "size": 985510,
-      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.4.1/shinsekai_heartbeat-0.4.1-85cffaf92588.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip",
+      "sha256": "c8aed1414e26367de42175fe2bf65f83062d6d7230118350e083bcdd13046758",
+      "size": 987388,
+      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip"
     },
     "sec_scan": {
       "static": {
@@ -429,12 +429,12 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.4.1/logo-85cffaf92588.png",
+    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.4.2/logo-102d680e5152.png",
     "stars": 3,
     "stargazers_count": 3,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-08-23T13:52:41Z"
+    "repo_updated_at": "2026-08-24T08:04:00Z"
   },
   "cloud_vision": {
     "name": "cloud_vision",
