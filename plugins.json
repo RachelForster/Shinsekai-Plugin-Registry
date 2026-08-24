@@ -110,8 +110,8 @@
     "display_name": "心跳陪伴 Heartbeat Companion",
     "author": "Hard-to-tell",
     "repo": "Hard-to-tell/shinsekai-heartbeat",
-    "description": "让角色在你一段时间没有操作后自然地主动开口，可结合最近对话、当前时间与可选的 Moondream 识屏信息，支持自言自语、主动提问和随机空闲间隔。",
-    "desc": "让角色在你一段时间没有操作后自然地主动开口，可结合最近对话、当前时间与可选的 Moondream 识屏信息，支持自言自语、主动提问和随机空闲间隔。",
+    "description": "让角色在你一段时间没有操作后自然地主动开口，也可以让她监督你学习哦：学习时她会安静陪伴，只有明确分心才提醒，支持自言自语、主动提问和随机空闲间隔。",
+    "desc": "让角色在你一段时间没有操作后自然地主动开口，也可以让她监督你学习哦：学习时她会安静陪伴，只有明确分心才提醒，支持自言自语、主动提问和随机空闲间隔。",
     "entry": "plugins.shinsekai_heartbeat.plugin:HeartbeatCompanionPlugin",
     "trust_level": "community",
     "verified": false,
@@ -120,8 +120,9 @@
     },
     "tags": [
       "心跳陪伴",
+      "学习监督",
+      "番茄钟",
       "主动对话",
-      "自动化",
       "识屏"
     ],
     "social_link": "https://github.com/Hard-to-tell",
