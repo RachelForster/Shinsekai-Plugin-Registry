@@ -178,5 +178,24 @@
       "qq"
     ],
     "lowest_shinsekai_version": "v2.3.1"
+  },
+  {
+    "name": "shinsekai_gptsovits_batch_trainer",
+    "display_name": "GPT-SoVITS 批量训练插件",
+    "author": "RachelForster",
+    "repo": "RachelForster/Shinsekai-gptsovits-batch-trainer",
+    "description": "识别全集人声按说话人分目录，按人物目录批量训练并一键填入人物设定。",
+    "desc": "识别全集人声按说话人分目录，按人物目录批量训练并一键填入人物设定。",
+    "entry": "plugins.shinsekai_gptsovits_batch_trainer.plugin:GptSovitsBatchTrainerPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "GPT-SOVITS"
+    ],
+    "social_link": "https://github.com/RachelForster",
+    "lowest_shinsekai_version": "无要求"
   }
 ]
