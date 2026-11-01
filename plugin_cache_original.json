@@ -5,18 +5,18 @@
     "repo": "RachelForster/shinsekai-moondream-vision",
     "description": "Enable your character to see your screen, monitor your new window, and trigger reply automatically",
     "entry": "moondream_vision.plugin:MoondreamVisionPlugin",
-    "version": "0.1.0",
-    "commit_sha": "5ec359b8fabbdc72aeb3e858acb5e75d1d28fc27",
-    "updated_at": "2026-06-07T13:50:32Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/RachelForster/moondream_vision/0.1.0/moondream_vision-0.1.0-5ec359b8fabb.zip",
-    "sha256": "6ca84bac9f523f77a4b9aca45f36e9f893879701bdad6a14a79003ee3e050d45",
-    "size": 27684,
+    "version": "0.2.0",
+    "commit_sha": "d978b257e5ae228fd8446688b3a95c2bcd1f1b67",
+    "updated_at": "2026-11-01T10:39:07Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/RachelForster/moondream_vision/0.2.0/moondream_vision-0.2.0-d978b257e5ae.zip",
+    "sha256": "549bb094a48a310da1a7cb662dda22bdc2f78d79a24f8a23c884ddffabf0fc9e",
+    "size": 35348,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/RachelForster/moondream_vision/0.1.0/moondream_vision-0.1.0-5ec359b8fabb.zip",
-      "sha256": "6ca84bac9f523f77a4b9aca45f36e9f893879701bdad6a14a79003ee3e050d45",
-      "size": 27684,
-      "r2_key": "plugins/RachelForster/moondream_vision/0.1.0/moondream_vision-0.1.0-5ec359b8fabb.zip"
+      "url": "https://r2.shinsekai.studio/plugins/RachelForster/moondream_vision/0.2.0/moondream_vision-0.2.0-d978b257e5ae.zip",
+      "sha256": "549bb094a48a310da1a7cb662dda22bdc2f78d79a24f8a23c884ddffabf0fc9e",
+      "size": 35348,
+      "r2_key": "plugins/RachelForster/moondream_vision/0.2.0/moondream_vision-0.2.0-d978b257e5ae.zip"
     },
     "sec_scan": {
       "static": {
@@ -25,7 +25,7 @@
         "findings": []
       }
     },
-    "display_name": "Moondream 识屏",
+    "display_name": "Moondream Vision",
     "plugin_id": "com.shinsekai.moondream_vision",
     "trust_level": "community",
     "verified": false,
@@ -42,17 +42,17 @@
     "description": "Whisper ASR using faster whisper and RealtimeSTT plugin for Shinsekai, multi-language supported",
     "entry": "whisper_asr.plugin:WhisperAsrPlugin",
     "version": "0.1.0",
-    "commit_sha": "8777c06dba1f963ff306a20ab62b7d87048cb818",
-    "updated_at": "2026-09-01T13:30:36Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8777c06dba1f.zip",
-    "sha256": "352a4d0bf6daa01613ccd8cecd5b67daae01ea7af591df54f27243b6b0f8e264",
-    "size": 10317,
+    "commit_sha": "8391d51006cb0d065926200bfd832019d9eaef0c",
+    "updated_at": "2026-11-01T10:39:09Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8391d51006cb.zip",
+    "sha256": "8ae1c58a53b15b11daecc43c599748bc4dcbe30e836efcc1032e9c2ddade9e1b",
+    "size": 10923,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8777c06dba1f.zip",
-      "sha256": "352a4d0bf6daa01613ccd8cecd5b67daae01ea7af591df54f27243b6b0f8e264",
-      "size": 10317,
-      "r2_key": "plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8777c06dba1f.zip"
+      "url": "https://r2.shinsekai.studio/plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8391d51006cb.zip",
+      "sha256": "8ae1c58a53b15b11daecc43c599748bc4dcbe30e836efcc1032e9c2ddade9e1b",
+      "size": 10923,
+      "r2_key": "plugins/RachelForster/whisper_asr/0.1.0/whisper_asr-0.1.0-8391d51006cb.zip"
     },
     "sec_scan": {
       "static": {
@@ -410,18 +410,18 @@
     ],
     "social_link": "https://github.com/Hard-to-tell",
     "lowest_shinsekai_version": ">=2.1.0",
-    "version": "v0.4.2",
-    "commit_sha": "102d680e5152e4a37125158f8f7986bf63949172",
-    "updated_at": "2026-08-24T12:33:47Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip",
-    "sha256": "a23a032b992ca3a9a7bb3cf6796c1c2dc281a2931e71fdb11c8d3e57d0dabc78",
-    "size": 987388,
+    "version": "v0.5.2",
+    "commit_sha": "77d54498d05699c57a931b0dbcdba06280952d1e",
+    "updated_at": "2026-11-01T10:39:08Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
+    "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
+    "size": 991699,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip",
-      "sha256": "a23a032b992ca3a9a7bb3cf6796c1c2dc281a2931e71fdb11c8d3e57d0dabc78",
-      "size": 987388,
-      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.4.2/shinsekai_heartbeat-0.4.2-102d680e5152.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
+      "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
+      "size": 991699,
+      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip"
     },
     "sec_scan": {
       "static": {
@@ -430,7 +430,7 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.4.2/logo-102d680e5152.png",
+    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.5.2/logo-77d54498d056.png",
     "stars": 4,
     "stargazers_count": 4,
     "forks": 0,
