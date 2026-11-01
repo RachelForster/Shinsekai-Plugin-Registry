@@ -33,7 +33,7 @@
     "stargazers_count": 2,
     "forks": 1,
     "forks_count": 1,
-    "repo_updated_at": "2026-06-01T15:06:42Z"
+    "repo_updated_at": "2026-10-07T08:52:41Z"
   },
   "whisper_asr": {
     "name": "whisper_asr",
@@ -68,7 +68,7 @@
     "stargazers_count": 0,
     "forks": 1,
     "forks_count": 1,
-    "repo_updated_at": "2026-09-01T13:53:01Z"
+    "repo_updated_at": "2026-09-22T12:47:19Z"
   },
   "chat_ui_customize": {
     "name": "chat_ui_customize",
@@ -339,11 +339,11 @@
       }
     },
     "plugin_id": "com.ferr.memory_system",
-    "stars": 1,
-    "stargazers_count": 1,
+    "stars": 2,
+    "stargazers_count": 2,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-06-21T13:16:25Z"
+    "repo_updated_at": "2026-10-25T06:51:43Z"
   },
   "mouse_control": {
     "name": "mouse_control",
@@ -431,11 +431,11 @@
       }
     },
     "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.4.2/logo-102d680e5152.png",
-    "stars": 3,
-    "stargazers_count": 3,
+    "stars": 4,
+    "stargazers_count": 4,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-08-24T08:04:00Z"
+    "repo_updated_at": "2026-10-28T16:03:45Z"
   },
   "cloud_vision": {
     "name": "cloud_vision",
@@ -567,5 +567,50 @@
     "forks": 0,
     "forks_count": 0,
     "repo_updated_at": "2026-08-15T04:51:07Z"
+  },
+  "shinsekai_gptsovits_batch_trainer": {
+    "name": "shinsekai_gptsovits_batch_trainer",
+    "display_name": "GPT-SoVITS 批量训练插件",
+    "author": "RachelForster",
+    "repo": "RachelForster/Shinsekai-gptsovits-batch-trainer",
+    "description": "识别全集人声按说话人分目录，按人物目录批量训练并一键填入人物设定。",
+    "desc": "识别全集人声按说话人分目录，按人物目录批量训练并一键填入人物设定。",
+    "entry": "plugins.shinsekai_gptsovits_batch_trainer.plugin:GptSovitsBatchTrainerPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "GPT-SOVITS"
+    ],
+    "social_link": "https://github.com/RachelForster",
+    "lowest_shinsekai_version": "无要求",
+    "version": "0.2.5",
+    "commit_sha": "8bc3a4ecbe47a8e2c3daf4c5d482771196ee2c53",
+    "updated_at": "2026-11-01T10:31:38Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/RachelForster/shinsekai_gptsovits_batch_trainer/0.2.5/shinsekai_gptsovits_batch_trainer-0.2.5-8bc3a4ecbe47.zip",
+    "sha256": "4d889520b0c2ed52473387b14b56d1f8f8329f573ba3c87d05413dbd0ad7cb94",
+    "size": 42462,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/RachelForster/shinsekai_gptsovits_batch_trainer/0.2.5/shinsekai_gptsovits_batch_trainer-0.2.5-8bc3a4ecbe47.zip",
+      "sha256": "4d889520b0c2ed52473387b14b56d1f8f8329f573ba3c87d05413dbd0ad7cb94",
+      "size": 42462,
+      "r2_key": "plugins/RachelForster/shinsekai_gptsovits_batch_trainer/0.2.5/shinsekai_gptsovits_batch_trainer-0.2.5-8bc3a4ecbe47.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "plugin_id": "local.gpt_sovits_batch_trainer",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-11-01T09:24:45Z"
   }
 }
