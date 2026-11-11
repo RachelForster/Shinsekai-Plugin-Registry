@@ -612,5 +612,51 @@
     "forks": 0,
     "forks_count": 0,
     "repo_updated_at": "2026-11-01T09:24:45Z"
+  },
+  "nanami_persona": {
+    "name": "nanami_persona",
+    "display_name": "Nanami_persona",
+    "author": "Roche",
+    "repo": "Roche114514/Nanami_persona",
+    "description": "基于科学的人格心理学知识搭建的，严格参考《弹丸论破2 ： 再见绝望学园》原作中七海千秋相关所有对话语料进行训练的人格心理学模型。\n  目前仅适配七海千秋的角色包。",
+    "desc": "基于科学的人格心理学知识搭建的，严格参考《弹丸论破2 ： 再见绝望学园》原作中七海千秋相关所有对话语料进行训练的人格心理学模型。\n  目前仅适配七海千秋的角色包。",
+    "entry": "plugins.nanami_persona.plugin:NanamiPersonaPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "角色扮演"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "2.6.0",
+    "version": "1.0.0",
+    "commit_sha": "22469bff9ade9114e465aefd4a4c8902e46b09d0",
+    "updated_at": "2026-11-11T22:50:34Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.0.0/nanami_persona-1.0.0-22469bff9ade.zip",
+    "sha256": "aa548b808abfd61cc66287685517c7acb143dd4f7d03fc5123a8a8110447b439",
+    "size": 248416,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.0.0/nanami_persona-1.0.0-22469bff9ade.zip",
+      "sha256": "aa548b808abfd61cc66287685517c7acb143dd4f7d03fc5123a8a8110447b439",
+      "size": 248416,
+      "r2_key": "plugins/Roche114514/nanami_persona/1.0.0/nanami_persona-1.0.0-22469bff9ade.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_persona/1.0.0/logo-22469bff9ade.png",
+    "plugin_id": "community.nanami.persona",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-11-11T14:48:57Z"
   }
 }
