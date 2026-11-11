@@ -197,5 +197,24 @@
     ],
     "social_link": "https://github.com/RachelForster",
     "lowest_shinsekai_version": "无要求"
+  },
+  {
+    "name": "nanami_persona",
+    "display_name": "Nanami_persona",
+    "author": "Roche",
+    "repo": "Roche114514/Nanami_persona",
+    "description": "基于科学的人格心理学知识搭建的，严格参考《弹丸论破2 ： 再见绝望学园》原作中七海千秋相关所有对话语料进行训练的人格心理学模型。\n  目前仅适配七海千秋的角色包。",
+    "desc": "基于科学的人格心理学知识搭建的，严格参考《弹丸论破2 ： 再见绝望学园》原作中七海千秋相关所有对话语料进行训练的人格心理学模型。\n  目前仅适配七海千秋的角色包。",
+    "entry": "plugins.nanami_persona.plugin:NanamiPersonaPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "角色扮演"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "2.6.0"
   }
 ]
