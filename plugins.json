@@ -216,5 +216,25 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "2.6.0"
+  },
+  {
+    "name": "snk_deepspace",
+    "display_name": "深空当铺 · 实时对话",
+    "author": "ZYHTTB",
+    "repo": "ZYHTTB/snk_deepspace",
+    "description": "「深空当铺 · 实时对话」是 Shinsekai 侧的插件。它读「深空陪玩」写出来的游戏状态，把你在《深空当铺：可能是偷的》里刚发生的事，变成一句括号旁白，递到角色面前。",
+    "desc": "「深空当铺 · 实时对话」是 Shinsekai 侧的插件。它读「深空陪玩」写出来的游戏状态，把你在《深空当铺：可能是偷的》里刚发生的事，变成一句括号旁白，递到角色面前。",
+    "entry": "plugins.snk_deepspace.plugin:DeepSpacePlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "游戏联动",
+      "角色扮演",
+      "深空当铺"
+    ],
+    "lowest_shinsekai_version": ">=2.5.0"
   }
 ]
