@@ -658,5 +658,51 @@
     "forks": 0,
     "forks_count": 0,
     "repo_updated_at": "2026-11-12T09:43:09Z"
+  },
+  "snk_deepspace": {
+    "name": "snk_deepspace",
+    "display_name": "深空当铺 · 实时对话",
+    "author": "ZYHTTB",
+    "repo": "ZYHTTB/snk_deepspace",
+    "description": "「深空当铺 · 实时对话」是 Shinsekai 侧的插件。它读「深空陪玩」写出来的游戏状态，把你在《深空当铺：可能是偷的》里刚发生的事，变成一句括号旁白，递到角色面前。",
+    "desc": "「深空当铺 · 实时对话」是 Shinsekai 侧的插件。它读「深空陪玩」写出来的游戏状态，把你在《深空当铺：可能是偷的》里刚发生的事，变成一句括号旁白，递到角色面前。",
+    "entry": "plugins.snk_deepspace.plugin:DeepSpacePlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "游戏联动",
+      "角色扮演",
+      "深空当铺"
+    ],
+    "lowest_shinsekai_version": ">=2.5.0",
+    "version": "0.9.13",
+    "commit_sha": "d8bfd9c16d64377c805c527bd18cc43b784a6a10",
+    "updated_at": "2026-11-14T12:48:58Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.13/snk_deepspace-0.9.13-d8bfd9c16d64.zip",
+    "sha256": "f72f7be90f5d2202324a5e6fc5498110d3c331bba9bf206049fad0dba7783e86",
+    "size": 72968,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.13/snk_deepspace-0.9.13-d8bfd9c16d64.zip",
+      "sha256": "f72f7be90f5d2202324a5e6fc5498110d3c331bba9bf206049fad0dba7783e86",
+      "size": 72968,
+      "r2_key": "plugins/ZYHTTB/snk_deepspace/0.9.13/snk_deepspace-0.9.13-d8bfd9c16d64.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "plugin_id": "com.zyhttb.snk_deepspace",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-11-14T10:08:51Z"
   }
 }
