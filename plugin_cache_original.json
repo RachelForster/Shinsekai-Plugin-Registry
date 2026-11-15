@@ -495,17 +495,17 @@
     },
     "social_link": "https://space.bilibili.com/18163005?spm_id_from=333.1007.0.0",
     "version": "2.0.0",
-    "commit_sha": "c673df75d6c8decff5b6accdbded9bb51f89747c",
-    "updated_at": "2026-11-14T15:10:06Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-c673df75d6c8.zip",
-    "sha256": "1083da511e4853d851a3005a682668c26db440c7cb725059cdde154d2412790b",
-    "size": 3909704,
+    "commit_sha": "1592b79b73d1ede34e30103c960ce08410d56cbb",
+    "updated_at": "2026-11-15T15:42:20Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-1592b79b73d1.zip",
+    "sha256": "a0d3b30104ee7da80b08e8e5d5d669ec747a76e75268ad598fb637b73191028e",
+    "size": 3910640,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-c673df75d6c8.zip",
-      "sha256": "1083da511e4853d851a3005a682668c26db440c7cb725059cdde154d2412790b",
-      "size": 3909704,
-      "r2_key": "plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-c673df75d6c8.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-1592b79b73d1.zip",
+      "sha256": "a0d3b30104ee7da80b08e8e5d5d669ec747a76e75268ad598fb637b73191028e",
+      "size": 3910640,
+      "r2_key": "plugins/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/shinsekai_chat_phone-2.0.0-1592b79b73d1.zip"
     },
     "sec_scan": {
       "static": {
@@ -514,7 +514,7 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/logo-c673df75d6c8.png",
+    "logo": "https://r2.shinsekai.studio/assets/Mizushima-Mihane/shinsekai_chat_phone/2.0.0/logo-1592b79b73d1.png",
     "plugin_id": "com.shinsekai.chat_phone",
     "stars": 1,
     "stargazers_count": 1,
@@ -678,18 +678,18 @@
       "深空当铺"
     ],
     "lowest_shinsekai_version": ">=2.5.0",
-    "version": "0.9.14",
-    "commit_sha": "deeffd3a9f1be8fae94e008261a4ca94174e299a",
-    "updated_at": "2026-11-14T15:10:08Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.14/snk_deepspace-0.9.14-deeffd3a9f1b.zip",
-    "sha256": "196ea64b908b82eb738da609b6c1951e281397763e8eccbf7c09a2aa51093c3a",
-    "size": 72968,
+    "version": "0.9.20",
+    "commit_sha": "ee541dc1de401dddd755ad424f2dbfacc7485592",
+    "updated_at": "2026-11-15T15:42:22Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip",
+    "sha256": "6ae1947a06aa9b7132eea6821d4a6f6f7d8e240b24626a3ce375169f689fcd88",
+    "size": 74573,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.14/snk_deepspace-0.9.14-deeffd3a9f1b.zip",
-      "sha256": "196ea64b908b82eb738da609b6c1951e281397763e8eccbf7c09a2aa51093c3a",
-      "size": 72968,
-      "r2_key": "plugins/ZYHTTB/snk_deepspace/0.9.14/snk_deepspace-0.9.14-deeffd3a9f1b.zip"
+      "url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip",
+      "sha256": "6ae1947a06aa9b7132eea6821d4a6f6f7d8e240b24626a3ce375169f689fcd88",
+      "size": 74573,
+      "r2_key": "plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip"
     },
     "sec_scan": {
       "static": {
