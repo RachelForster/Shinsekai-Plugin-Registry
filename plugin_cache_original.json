@@ -631,18 +631,18 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "2.6.0",
-    "version": "1.1.0",
-    "commit_sha": "c83a5feb5ebf446f6e9ed3410a5619d9f0f90e6c",
-    "updated_at": "2026-11-14T12:45:58Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.0/nanami_persona-1.1.0-c83a5feb5ebf.zip",
-    "sha256": "d94759e217337c8853865d9b55889b7bf620f3b195e8693e1bda1a2fe87ad365",
-    "size": 274672,
+    "version": "1.1.5",
+    "commit_sha": "0356dfa7f667806ce1ca1c7cc14f3d0dd07cb538",
+    "updated_at": "2026-11-16T06:42:46Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip",
+    "sha256": "f5c36002fb14d088d851fca49b14636d5f4f911928474ded5542a26764cec759",
+    "size": 347213,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.0/nanami_persona-1.1.0-c83a5feb5ebf.zip",
-      "sha256": "d94759e217337c8853865d9b55889b7bf620f3b195e8693e1bda1a2fe87ad365",
-      "size": 274672,
-      "r2_key": "plugins/Roche114514/nanami_persona/1.1.0/nanami_persona-1.1.0-c83a5feb5ebf.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip",
+      "sha256": "f5c36002fb14d088d851fca49b14636d5f4f911928474ded5542a26764cec759",
+      "size": 347213,
+      "r2_key": "plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip"
     },
     "sec_scan": {
       "static": {
@@ -651,7 +651,7 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_persona/1.1.0/logo-c83a5feb5ebf.png",
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_persona/1.1.5/logo-0356dfa7f667.png",
     "plugin_id": "community.nanami.persona",
     "stars": 0,
     "stargazers_count": 0,
@@ -678,18 +678,18 @@
       "深空当铺"
     ],
     "lowest_shinsekai_version": ">=2.5.0",
-    "version": "0.9.20",
-    "commit_sha": "ee541dc1de401dddd755ad424f2dbfacc7485592",
-    "updated_at": "2026-11-15T15:42:22Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip",
-    "sha256": "6ae1947a06aa9b7132eea6821d4a6f6f7d8e240b24626a3ce375169f689fcd88",
-    "size": 74573,
+    "version": "0.9.21",
+    "commit_sha": "fda6bef60c5a4377755f2264ed5476f463b166fb",
+    "updated_at": "2026-11-16T06:42:48Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.21/snk_deepspace-0.9.21-fda6bef60c5a.zip",
+    "sha256": "73931e639fc3d48a88571e8392d30b4e239f2a3cf8e51185cb17684e6ae8f7dd",
+    "size": 74779,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip",
-      "sha256": "6ae1947a06aa9b7132eea6821d4a6f6f7d8e240b24626a3ce375169f689fcd88",
-      "size": 74573,
-      "r2_key": "plugins/ZYHTTB/snk_deepspace/0.9.20/snk_deepspace-0.9.20-ee541dc1de40.zip"
+      "url": "https://r2.shinsekai.studio/plugins/ZYHTTB/snk_deepspace/0.9.21/snk_deepspace-0.9.21-fda6bef60c5a.zip",
+      "sha256": "73931e639fc3d48a88571e8392d30b4e239f2a3cf8e51185cb17684e6ae8f7dd",
+      "size": 74779,
+      "r2_key": "plugins/ZYHTTB/snk_deepspace/0.9.21/snk_deepspace-0.9.21-fda6bef60c5a.zip"
     },
     "sec_scan": {
       "static": {
