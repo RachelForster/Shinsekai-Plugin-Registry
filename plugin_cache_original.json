@@ -631,18 +631,18 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "2.6.0",
-    "version": "1.1.5",
-    "commit_sha": "0356dfa7f667806ce1ca1c7cc14f3d0dd07cb538",
-    "updated_at": "2026-11-16T06:42:46Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip",
-    "sha256": "f5c36002fb14d088d851fca49b14636d5f4f911928474ded5542a26764cec759",
-    "size": 347213,
+    "version": "1.4.0",
+    "commit_sha": "f3b986f8a188f8aebedfcfb301f38d33328994ea",
+    "updated_at": "2026-11-18T07:38:31Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.4.0/nanami_persona-1.4.0-f3b986f8a188.zip",
+    "sha256": "dde57fca6427e9055f7b38285860dcd541a54891e43a5f10b93992da004268f0",
+    "size": 529285,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip",
-      "sha256": "f5c36002fb14d088d851fca49b14636d5f4f911928474ded5542a26764cec759",
-      "size": 347213,
-      "r2_key": "plugins/Roche114514/nanami_persona/1.1.5/nanami_persona-1.1.5-0356dfa7f667.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_persona/1.4.0/nanami_persona-1.4.0-f3b986f8a188.zip",
+      "sha256": "dde57fca6427e9055f7b38285860dcd541a54891e43a5f10b93992da004268f0",
+      "size": 529285,
+      "r2_key": "plugins/Roche114514/nanami_persona/1.4.0/nanami_persona-1.4.0-f3b986f8a188.zip"
     },
     "sec_scan": {
       "static": {
@@ -651,13 +651,13 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_persona/1.1.5/logo-0356dfa7f667.png",
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_persona/1.4.0/logo-f3b986f8a188.png",
     "plugin_id": "community.nanami.persona",
-    "stars": 1,
-    "stargazers_count": 1,
+    "stars": 2,
+    "stargazers_count": 2,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-11-17T07:12:52Z"
+    "repo_updated_at": "2026-11-18T06:21:42Z"
   },
   "snk_deepspace": {
     "name": "snk_deepspace",
