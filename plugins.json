@@ -236,5 +236,25 @@
       "深空当铺"
     ],
     "lowest_shinsekai_version": ">=2.5.0"
+  },
+  {
+    "name": "nanami_world",
+    "display_name": "nanami_world_文字世界",
+    "author": "Roche",
+    "repo": "Roche114514/nanami_world",
+    "description": "自定义创建属于你的沙盒世界，一键生成角色的像素模型，并让ta们在你创造的世界里生活，互动。\n(搭配人格模型插件体验更佳）",
+    "desc": "自定义创建属于你的沙盒世界，一键生成角色的像素模型，并让ta们在你创造的世界里生活，互动。\n(搭配人格模型插件体验更佳）",
+    "entry": "plugins.nanami_world.plugin:NanamiWorldPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "沙盒世界",
+      "角色扮演"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "v2.6.0"
   }
 ]
