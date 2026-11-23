@@ -724,18 +724,18 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "v2.6.0",
-    "version": "v0.3.0",
-    "commit_sha": "0cfe83bd71d1f5d83a42f04733e20eca2fc58ebd",
-    "updated_at": "2026-11-21T21:42:04Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.3.0/nanami_world-0.3.0-0cfe83bd71d1.zip",
-    "sha256": "f0c91d6595769b1677e54c691a2946af293cb650676fcad709af65efd0b27724",
-    "size": 370656,
+    "version": "v0.4.0",
+    "commit_sha": "bf8c6fa8138cbdaaecd74c73fbfe9ba2d992809c",
+    "updated_at": "2026-11-23T14:49:12Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.4.0/nanami_world-0.4.0-bf8c6fa8138c.zip",
+    "sha256": "40b87f51f2ce740018a95df404dd282caa67abe3ed42c159db010604d0f33852",
+    "size": 445739,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.3.0/nanami_world-0.3.0-0cfe83bd71d1.zip",
-      "sha256": "f0c91d6595769b1677e54c691a2946af293cb650676fcad709af65efd0b27724",
-      "size": 370656,
-      "r2_key": "plugins/Roche114514/nanami_world/0.3.0/nanami_world-0.3.0-0cfe83bd71d1.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.4.0/nanami_world-0.4.0-bf8c6fa8138c.zip",
+      "sha256": "40b87f51f2ce740018a95df404dd282caa67abe3ed42c159db010604d0f33852",
+      "size": 445739,
+      "r2_key": "plugins/Roche114514/nanami_world/0.4.0/nanami_world-0.4.0-bf8c6fa8138c.zip"
     },
     "sec_scan": {
       "static": {
@@ -744,7 +744,7 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_world/0.3.0/logo-0cfe83bd71d1.png",
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_world/0.4.0/logo-bf8c6fa8138c.png",
     "stars": 0,
     "stargazers_count": 0,
     "forks": 0,
