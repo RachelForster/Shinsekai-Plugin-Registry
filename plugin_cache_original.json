@@ -410,18 +410,18 @@
     ],
     "social_link": "https://github.com/Hard-to-tell",
     "lowest_shinsekai_version": ">=2.1.0",
-    "version": "v0.5.2",
-    "commit_sha": "77d54498d05699c57a931b0dbcdba06280952d1e",
-    "updated_at": "2026-11-01T10:39:08Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
-    "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
-    "size": 991699,
+    "version": "v0.6.0",
+    "commit_sha": "753c1e79c2647a4b47a5533062974073e0c29ca3",
+    "updated_at": "2026-11-26T13:58:49Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip",
+    "sha256": "0eb42ee0ef747a23ffe9f37ff374398b5d5106e22a57956983fdd704690a63ed",
+    "size": 992451,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
-      "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
-      "size": 991699,
-      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip",
+      "sha256": "0eb42ee0ef747a23ffe9f37ff374398b5d5106e22a57956983fdd704690a63ed",
+      "size": 992451,
+      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip"
     },
     "sec_scan": {
       "static": {
@@ -430,7 +430,7 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.5.2/logo-77d54498d056.png",
+    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.6.0/logo-753c1e79c264.png",
     "stars": 3,
     "stargazers_count": 3,
     "forks": 0,
