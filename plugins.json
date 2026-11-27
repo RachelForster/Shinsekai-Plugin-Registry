@@ -275,5 +275,14 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "v2.6.0"
+  },
+  {
+    "name": "gpt_sovits_emotion_voice",
+    "display_name": "GPT-sovits多参考语音插件",
+    "author": "yzyby",
+    "repo": "yzyby2/shinsekai-gpt-sovits-emotion-voice",
+    "description": "可以同时插入多条参考语音，让角色说话不死板，调节采样步数，可防电音",
+    "desc": "可以同时插入多条参考语音，让角色说话不死板，调节采样步数，可防电音",
+    "entry": "plugins.gpt_sovits_emotion_voice.plugin:GptSovitsEmotionVoicePlugin",
   }
 ]
