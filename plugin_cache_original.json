@@ -393,8 +393,8 @@
     "display_name": "心跳陪伴 Heartbeat Companion",
     "author": "Hard-to-tell",
     "repo": "Hard-to-tell/shinsekai-heartbeat",
-    "description": "让角色在你一段时间没有操作后自然地主动开口，也可以让她监督你学习哦：学习时她会安静陪伴，只有明确分心才提醒，支持自言自语、主动提问和随机空闲间隔。",
-    "desc": "让角色在你一段时间没有操作后自然地主动开口，也可以让她监督你学习哦：学习时她会安静陪伴，只有明确分心才提醒，支持自言自语、主动提问和随机空闲间隔。",
+    "description": "你一段时间没说话，角色会自然地主动开口：接着聊、问候一句，或结合时间和屏幕说点什么。也能按时提醒和监督你保持专注。装上即用，不需要开屏幕共享。",
+    "desc": "你一段时间没说话，角色会自然地主动开口：接着聊、问候一句，或结合时间和屏幕说点什么。也能按时提醒和监督你保持专注。装上即用，不需要开屏幕共享。",
     "entry": "plugins.shinsekai_heartbeat.plugin:HeartbeatCompanionPlugin",
     "trust_level": "community",
     "verified": false,
@@ -403,25 +403,25 @@
     },
     "tags": [
       "心跳陪伴",
-      "学习监督",
-      "番茄钟",
+      "空闲陪伴",
+      "提醒监督",
       "主动对话",
       "识屏"
     ],
     "social_link": "https://github.com/Hard-to-tell",
     "lowest_shinsekai_version": ">=2.1.0",
-    "version": "v0.5.2",
-    "commit_sha": "77d54498d05699c57a931b0dbcdba06280952d1e",
-    "updated_at": "2026-11-01T10:39:08Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
-    "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
-    "size": 991699,
+    "version": "v0.6.0",
+    "commit_sha": "753c1e79c2647a4b47a5533062974073e0c29ca3",
+    "updated_at": "2026-11-27T12:13:08Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip",
+    "sha256": "b62141571d156dae9995f7c186b0a6e8a612a24068d5dd6340811b3da198051c",
+    "size": 992451,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip",
-      "sha256": "12cd13c29f316acfde7256fdbc6e185798cb1a567cbcb25fa3d32957e947fc85",
-      "size": 991699,
-      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.5.2/shinsekai_heartbeat-0.5.2-77d54498d056.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip",
+      "sha256": "b62141571d156dae9995f7c186b0a6e8a612a24068d5dd6340811b3da198051c",
+      "size": 992451,
+      "r2_key": "plugins/Hard-to-tell/shinsekai_heartbeat/0.6.0/shinsekai_heartbeat-0.6.0-753c1e79c264.zip"
     },
     "sec_scan": {
       "static": {
@@ -430,12 +430,12 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.5.2/logo-77d54498d056.png",
-    "stars": 4,
-    "stargazers_count": 4,
+    "logo": "https://r2.shinsekai.studio/assets/Hard-to-tell/shinsekai_heartbeat/0.6.0/logo-753c1e79c264.png",
+    "stars": 3,
+    "stargazers_count": 3,
     "forks": 0,
     "forks_count": 0,
-    "repo_updated_at": "2026-10-28T16:03:45Z"
+    "repo_updated_at": "2026-11-23T23:42:43Z"
   },
   "cloud_vision": {
     "name": "cloud_vision",
@@ -724,18 +724,18 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "v2.6.0",
-    "version": "v0.2.2",
-    "commit_sha": "e4ad9152f2a1bd926332c0ae04a7416a4c4c13b9",
-    "updated_at": "2026-11-20T07:26:00Z",
-    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.2.2/nanami_world-0.2.2-e4ad9152f2a1.zip",
-    "sha256": "5082eb9520dced9f2e3d2e4d4202791716fba7b8d8fe4d323bf040e7dc1cce0b",
-    "size": 200375,
+    "version": "v0.5.5",
+    "commit_sha": "453431760653b5b32524012b7b0ca774434777e8",
+    "updated_at": "2026-11-25T14:31:19Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.5.5/nanami_world-0.5.5-453431760653.zip",
+    "sha256": "60b2f69e4dfa6e46704947b8f1153544d7446ca542993cdba0d5a0e2b2b8fdf6",
+    "size": 659583,
     "package": {
       "source": "r2",
-      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.2.2/nanami_world-0.2.2-e4ad9152f2a1.zip",
-      "sha256": "5082eb9520dced9f2e3d2e4d4202791716fba7b8d8fe4d323bf040e7dc1cce0b",
-      "size": 200375,
-      "r2_key": "plugins/Roche114514/nanami_world/0.2.2/nanami_world-0.2.2-e4ad9152f2a1.zip"
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_world/0.5.5/nanami_world-0.5.5-453431760653.zip",
+      "sha256": "60b2f69e4dfa6e46704947b8f1153544d7446ca542993cdba0d5a0e2b2b8fdf6",
+      "size": 659583,
+      "r2_key": "plugins/Roche114514/nanami_world/0.5.5/nanami_world-0.5.5-453431760653.zip"
     },
     "sec_scan": {
       "static": {
@@ -744,11 +744,56 @@
         "findings": []
       }
     },
-    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_world/0.2.2/logo-e4ad9152f2a1.png",
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_world/0.5.5/logo-453431760653.png",
     "stars": 0,
     "stargazers_count": 0,
     "forks": 0,
     "forks_count": 0,
     "repo_updated_at": "2026-11-19T08:17:35Z"
+  },
+  "nanami_story": {
+    "name": "nanami_story",
+    "display_name": "nanami_story",
+    "author": "Roche",
+    "repo": "Roche114514/nanami_story",
+    "description": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "desc": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "entry": "plugins.nanami_story.plugin:NanamiStoryPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "剧本"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "v2.6.0",
+    "version": "v0.0.0",
+    "commit_sha": "dfddbef3a3afdc1fa63112abe82ec923c237ab3e",
+    "updated_at": "2026-11-27T12:14:10Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip",
+    "sha256": "4ae1f3d4a7894b218614b2f54feca0d7c17c699f097dadf44fd8dfff9881aeda",
+    "size": 215178,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip",
+      "sha256": "4ae1f3d4a7894b218614b2f54feca0d7c17c699f097dadf44fd8dfff9881aeda",
+      "size": 215178,
+      "r2_key": "plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_story/0.0.0/logo-dfddbef3a3af.png",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-11-25T13:42:13Z"
   }
 }
