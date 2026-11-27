@@ -256,5 +256,24 @@
     ],
     "social_link": "https://space.bilibili.com/201130257",
     "lowest_shinsekai_version": "v2.6.0"
+  },
+  {
+    "name": "nanami_story",
+    "display_name": "nanami_story",
+    "author": "Roche",
+    "repo": "Roche114514/nanami_story",
+    "description": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "desc": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "entry": "plugins.nanami_story.plugin:NanamiStoryPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "剧本"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "v2.6.0"
   }
 ]
