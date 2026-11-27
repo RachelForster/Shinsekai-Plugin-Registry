@@ -750,5 +750,50 @@
     "forks": 0,
     "forks_count": 0,
     "repo_updated_at": "2026-11-19T08:17:35Z"
+  },
+  "nanami_story": {
+    "name": "nanami_story",
+    "display_name": "nanami_story",
+    "author": "Roche",
+    "repo": "Roche114514/nanami_story",
+    "description": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "desc": "以「命运丝线（Fate Weaver）」为核心引擎的独立零耦合故事插件。在立体小镇与常驻舞台中记录角色真实见闻，交由人格模型在每个节点做出自己的选择，并据此滚动编排后续故事。",
+    "entry": "plugins.nanami_story.plugin:NanamiStoryPlugin",
+    "trust_level": "community",
+    "verified": false,
+    "review": {
+      "status": "ci_passed"
+    },
+    "tags": [
+      "剧本"
+    ],
+    "social_link": "https://space.bilibili.com/201130257",
+    "lowest_shinsekai_version": "v2.6.0",
+    "version": "v0.0.0",
+    "commit_sha": "dfddbef3a3afdc1fa63112abe82ec923c237ab3e",
+    "updated_at": "2026-11-27T12:14:10Z",
+    "download_url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip",
+    "sha256": "4ae1f3d4a7894b218614b2f54feca0d7c17c699f097dadf44fd8dfff9881aeda",
+    "size": 215178,
+    "package": {
+      "source": "r2",
+      "url": "https://r2.shinsekai.studio/plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip",
+      "sha256": "4ae1f3d4a7894b218614b2f54feca0d7c17c699f097dadf44fd8dfff9881aeda",
+      "size": 215178,
+      "r2_key": "plugins/Roche114514/nanami_story/0.0.0/nanami_story-0.0.0-dfddbef3a3af.zip"
+    },
+    "sec_scan": {
+      "static": {
+        "pass": true,
+        "msg": "No blocked patterns found.",
+        "findings": []
+      }
+    },
+    "logo": "https://r2.shinsekai.studio/assets/Roche114514/nanami_story/0.0.0/logo-dfddbef3a3af.png",
+    "stars": 0,
+    "stargazers_count": 0,
+    "forks": 0,
+    "forks_count": 0,
+    "repo_updated_at": "2026-11-25T13:42:13Z"
   }
 }
